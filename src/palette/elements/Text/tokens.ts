@@ -11,6 +11,8 @@ import {
   TEXT_FONT_SIZES,
 } from "@artsy/palette-tokens/dist/text"
 
+export { TextFontSize } from "@artsy/palette-tokens/dist/text"
+
 /**
  * font-families
  */
