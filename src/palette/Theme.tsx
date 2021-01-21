@@ -1,7 +1,7 @@
+import tokens from "@artsy/palette-tokens"
 import React from "react"
 import { fontFamily } from "./platform/fonts/fontFamily"
 import { ThemeProvider } from "./platform/primitives"
-import tokens from "@artsy/palette-tokens"
 
 /**
  * All of the config for the Artsy theming system, based on the

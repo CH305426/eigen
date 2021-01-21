@@ -1,15 +1,15 @@
-import { ResponsiveValue, Theme, TLengthStyledSystem } from "styled-system"
 import {
+  TEXT_FONT_SIZES,
+  TEXT_LETTER_SPACING,
+  TEXT_LINE_HEIGHTS,
+  TEXT_TREATMENTS,
+  TEXT_VARIANTS as WEB_TEXT_VARIANTS,
   TextFontSize,
   TextLetterSpacing,
   TextLineHeight,
   TextTreatment as WebTextTreatment,
-  TEXT_VARIANTS as WEB_TEXT_VARIANTS,
-  TEXT_TREATMENTS,
-  TEXT_LINE_HEIGHTS,
-  TEXT_LETTER_SPACING,
-  TEXT_FONT_SIZES,
 } from "@artsy/palette-tokens/dist/text"
+import { ResponsiveValue, Theme, TLengthStyledSystem } from "styled-system"
 
 export { TextFontSize } from "@artsy/palette-tokens/dist/text"
 
